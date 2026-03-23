@@ -1,7 +1,7 @@
 
 # Giới thiệu
 
-Mã nguồn của dự án được chia sẻ bởi Tiến Sĩ Bùi Thanh Luân, Bộ môn Cơ điện tử - Khoa Cơ Khí, Đại học Bách Khoa TP HCM
+Mã nguồn của dự án được chia sẻ bởi Tiến Sĩ Bùi Thanh Luân, Bộ môn Cơ điện tử - Khoa Cơ Khí, Đại học Bách Khoa TP HCM.
 Luôn biết ơn và kính trọng Thầy, cảm ơn những kinh nghiệm quý báu Thầy đã chia sẻ cho Học viên. Mong mọi điều tốt đẹp.
 
 # Kiến trúc GUI MATLAB cho Động học/Động lực học Robot
